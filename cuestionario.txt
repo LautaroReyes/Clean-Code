@@ -1,0 +1,27 @@
+1. El prólogo tiene el propósito de introducir y establecer el contexto del libro, presentando la importancia y el valor de escribir código limpio en el desarrollo de software.
+
+2. El autor del prólogo es Dave Thomas, tiene una relación profesional con Robert Cecil Martin, ya que ambos son figuras destacadas en la comunidad de desarrollo de software y comparten un enfoque común hacia la calidad del código y la práctica de la programación limpia.
+
+3. Según el prólogo, la escritura de código limpio es importante porque el código es una forma de comunicación entre los desarrolladores y debe ser fácil de entender, mantener y evolucionar. El código limpio ayuda a mejorar la productividad, reducir errores y facilitar la colaboración en los equipos de desarrollo.
+
+4. El objetivo principal del libro es proporcionar pautas, principios y prácticas para escribir código de alta calidad, legible, mantenible y eficiente.
+
+5. Beneficios: facilita la comprensión y lectura del código, mejora la mantenibilidad a largo plazo y reduce la probabilidad de errores y defectos en el software.
+
+6. El aspecto económico es importante al considerar el mantenimiento de código limpio porque el mantenimiento de software es una parte costosa y crucial del ciclo de vida del desarrollo de software. El código limpio puede reducir los costos asociados con el mantenimiento al hacerlo más eficiente y menos propenso a errores.
+
+7. La imagen de cubierta del libro representa una pizarra o una superficie donde se escribe código. Esta imagen simboliza la idea de trabajar en el código, mejorarlo y hacerlo limpio y legible.
+
+8. A través de la imagen de cubierta, se intenta transmitir el mensaje de que el libro se centra en el proceso de mejorar y limpiar el código existente, convirtiéndolo en un código legible y de calidad.
+
+9. La metáfora utilizada para describir el código limpio en el libro es la de un "escritor" y un "lector". El código debe ser escrito pensando en ser leído y comprendido fácilmente por otros desarrolladores.
+
+10. Tres características de un código limpio según el autor son: claridad, simplicidad y ausencia de duplicación.
+
+11. La importancia de que el código sea fácil de leer radica en que la mayoría del tiempo de desarrollo de software se dedica a la lectura y comprensión del código existente. El código legible facilita la colaboración, el mantenimiento y la evolución del software.
+
+12. Los nombres bien elegidos son importantes en la escritura de código porque ayudan a comunicar la intención y el propósito de las variables, funciones y clases. Los nombres claros y descriptivos mejoran la comprensión del código y facilitan su mantenimiento.
+
+13. Tres pautas sugeridas por el autor para nombrar variables, funciones y clases son: utilizar nombres descriptivos y significativos, evitar nombres ambiguos o genéricos y seguir una convención de nomenclatura consistente en todo el código.
+
+14. El uso de nombres genéricos o ambiguos en el código puede generar confusión y dificultad para comprender el propósito y la funcionalidad de las partes del código. Esto puede llevar a errores, dificultades en el mantenimiento y una comprensión deficiente del código por parte de otros desarrolladores.
